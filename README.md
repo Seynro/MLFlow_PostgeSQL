@@ -29,7 +29,8 @@ This script is designed to automatically track and log changes in the `test_data
 
 1. Ensure you have all the necessary libraries and tools installed.
 2. Set up the connection to the PostgreSQL database by specifying the correct parameters in the connection string.
-3. Run the script.
+3. Start MLFlow UI
+4. Run the script.
 
 ### Usage Example
 
