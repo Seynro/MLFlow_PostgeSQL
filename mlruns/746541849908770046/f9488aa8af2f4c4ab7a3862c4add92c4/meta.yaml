@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/autolog/mlruns/746541849908770046/f9488aa8af2f4c4ab7a3862c4add92c4/artifacts
+end_time: 1689923908877
+entry_point_name: ''
+experiment_id: '746541849908770046'
+lifecycle_stage: active
+run_id: f9488aa8af2f4c4ab7a3862c4add92c4
+run_name: '2023-07-21 10:35:48'
+run_uuid: f9488aa8af2f4c4ab7a3862c4add92c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689923906409
+status: 3
+tags: []
+user_id: user
